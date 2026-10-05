@@ -25,6 +25,7 @@
 * **JavaScript** ✨
 * **SQL** 🗃️
 * **C#** 🔪
+* **Dart**🎯 
 ---
 
 ## 🛠️ Tools & Technologies
