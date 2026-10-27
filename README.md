@@ -11,8 +11,8 @@
 
 ## 📖 Student Life Status
 
-✨ **2nd Year – BS Computer Science**
-📌 Currently surviving: deadlines, coding challenges, and caffeine ☕😆
+✨ **3rd Year – BS Computer Science**
+📌 Currently surviving: deadlines, coding challenges, and matcha 🍃 😆
 
 ---
 
@@ -40,6 +40,7 @@
 * **Cisco Pocket Tracer**
 * **Canva (for presentations)**
 * **Capcut (for creative presentations)**
+* **Figma (for Wireframe - Fidelity)**
 
 ---
 
@@ -73,7 +74,7 @@
 
 ---
 
-## 🌊 Quote I Live By
+## 🌊
 
 ✨ *Just a student coding her way through life, one commit at a time.*
 
