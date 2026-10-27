@@ -1,6 +1,7 @@
 # ♡ < Hello, World! >
 
 🎓 **BS Computer Science Student** @ **Batangas State University – The National Engineering University**
+
 📚 Bookworm | 🍪 Cook & Baker | 💻 Tech Explorer
 💙 Life looks better in shades of blue 🌊✨
 
